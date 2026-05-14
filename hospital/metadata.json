@@ -1,0 +1,6 @@
+{
+  "name": "Siha Angavu - Hospital & Mental Health Management",
+  "description": "Siha Angavu Hospital management system for patient records, seminars, and clinical statistics. Features secure logins, PWA support for installation, and multi-format report generation (Word, Excel, PPT).",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
