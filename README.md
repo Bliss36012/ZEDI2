@@ -1,2 +1,0 @@
-# siha-hospital
-mantal hospital
